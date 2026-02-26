@@ -1,8 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-#Le code risque d'etre peu compréhensible sans avoir lu les slides
-
 
 #Variables globales
 
@@ -238,3 +236,4 @@ plt.xlabel("t")
 plt.title("trapèze newton")
 
 plt.show()
+
