@@ -1,6 +1,6 @@
 ## Project Description  
 
-Numerical modeling of carbon dioxide storage using a system of nonlinear differential equations to simulate carbon exchanges between the atmosphere, trees, and soil compartments.  
+Numerical modeling of carbon dioxide storage using a system of differential equations to simulate carbon exchanges between the atmosphere, trees, and soil compartments.  
 
 - Developed a coupled dynamical system describing carbon fluxes between atmosphere ($C_A$), vegetation ($C_T$), and soil ($C_S$).  
 - Modeled sequestration through a logistic growth term controlled by parameters $\alpha$ (sequestration rate) and $K$ (maximum storage capacity).  
